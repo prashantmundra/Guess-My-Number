@@ -117,20 +117,3 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
-
-/* extra */
-#win {
-  position: absolute;
-  width: -webkit-fill-available;
-  text-align: center;
-  top: 50%;
-  display: none;
-}
-#win h1 {
-  position: static;
-  width: 100%;
-  transform: translate(0, 0);
-}
-#win > button {
-  margin-top: 13px;
-}
